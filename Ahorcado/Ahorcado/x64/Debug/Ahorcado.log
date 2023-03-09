@@ -1,0 +1,3 @@
+﻿  Ahorcado.cpp
+C:\Users\Administrator\source\repos\Ahorcado\Ahorcado\Ahorcado.cpp(15,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ahorcado.vcxproj -> C:\Users\Administrator\source\repos\Ahorcado\x64\Debug\Ahorcado.exe
