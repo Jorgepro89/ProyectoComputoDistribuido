@@ -1,7 +1,10 @@
 # Example file showing a circle moving on screen
 import pygame
+import random
 
-word = "locomotora"
+words = ["locomotora", "limones", "computo", "muercielago", "familia", "escalera", "python", "vacuna", "artritis"];
+
+word = words[random.randint(0,8)]
 
 class Letra:
     def __init__(self,x1,y1,width,height,text,textX,textY):
